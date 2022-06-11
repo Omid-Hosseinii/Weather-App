@@ -1,0 +1,8 @@
+Weather API  :https://openweathermap.org/
+
+
+
+Required modules:
+  pip install pytz 
+  pip install geopy
+  pip install timezonefinder
